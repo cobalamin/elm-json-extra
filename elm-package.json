@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "summary": "Enhancing Json.Decode/Json.Encode for non-obvious use cases",
     "repository": "https://github.com/cobalamin/elm-json-extra.git",
     "license": "BSD3",
@@ -7,8 +7,8 @@
         "src"
     ],
     "exposed-modules": [
-				"Json.Decode.Extra"
-		],
+        "Json.Decode.Extra"
+    ],
     "dependencies": {
         "elm-lang/core": "4.0.5 <= v < 5.0.0"
     },
